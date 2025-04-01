@@ -1,0 +1,13 @@
+--gemini
+-- llm api--> llm give them natural language or texts like codes which can give similar data...
+--multimodal model---> input-->text and output can be images
+--product is different from model-----> product is updated and model is trained on certain datasets--->which is static
+-- context in llm---> +2M context along with grounding()
+--vertex ai--> build pipelining
+-- firebase
+--pnpm --> parallel npm
+--embedding vector
+--count vectorization
+--vector search
+--hugging face 
+--qdrant
